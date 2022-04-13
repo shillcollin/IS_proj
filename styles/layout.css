@@ -1,0 +1,50 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.common {
+    background-color: aliceblue;
+    border: solid 2px white;
+    position: absolute;
+}
+
+.header {
+    Top: 5px;
+    Bottom: 395px;
+    left: 5px;
+    right: 5px;
+    height: 200px;
+    border-bottom: solid 3px;
+
+}
+
+.leftmenu {
+    top: 114px;
+    width: 100px;
+    bottom: 64px;
+    left: 5px;
+
+}
+
+.mainbody {
+    top: 90px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+}
+
+.rightmenu {
+    top: px ;
+    bottom: 64px;
+    right: 5px;
+    width: 100px ;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+}
